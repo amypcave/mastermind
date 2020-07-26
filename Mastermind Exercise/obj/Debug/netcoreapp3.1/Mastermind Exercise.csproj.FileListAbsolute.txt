@@ -1,0 +1,14 @@
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Mastermind Exercise.exe
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Mastermind Exercise.deps.json
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Mastermind Exercise.runtimeconfig.json
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Mastermind Exercise.runtimeconfig.dev.json
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Mastermind Exercise.dll
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Mastermind Exercise.pdb
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.csprojAssemblyReference.cache
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.AssemblyInfoInputs.cache
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.AssemblyInfo.cs
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.dll
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.pdb
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\bin\Debug\netcoreapp3.1\Figgle.dll
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.csproj.CoreCompileInputs.cache
+C:\Users\Student\source\repos\Mastermind Exercise\Mastermind Exercise\obj\Debug\netcoreapp3.1\Mastermind Exercise.csproj.CopyComplete
